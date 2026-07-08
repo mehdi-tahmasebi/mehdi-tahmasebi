@@ -2,37 +2,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=mehdi-tahmasebi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-</div>
+<br />
 
-# gh-light-mode-only
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8F4FD,100:007ACC&height=140&section=header&text=Mehdi%20Tahmasebi&fontSize=36&fontColor=0D1117&animation=fadeIn" alt="Header Light" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:61DAFB&height=140&section=header&text=Mehdi%20Tahmasebi&fontSize=36&fontColor=FFFFFF&animation=twinkling" alt="Header" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=620&lines=Front-End+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript;Building+scalable+UIs+%F0%9F%9A%80" alt="Typing Light" />
-
-<br />
-
-<sub>☀️ <strong>Light mode</strong> · clean portfolio view &nbsp;|&nbsp; switch to dark for the dev cockpit</sub>
-
-</div>
-
-# gh-dark-mode-only
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:61DAFB&height=140&section=header&text=Mehdi%20Tahmasebi&fontSize=36&fontColor=FFFFFF&animation=twinkling" alt="Header Dark" />
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&width=620&lines=%3E+init+developer.exe;Front-End+Architect;React+%7C+Next.js+%7C+TypeScript;compiling+scalable+UIs...+%E2%9C%93" alt="Typing Dark" />
-
-<br />
-
-<sub>🌙 <strong>Dark mode</strong> · dev cockpit &nbsp;|&nbsp; toggle your OS theme to see both personalities</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Mehdi+Tahmasebi;Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Building+scalable+UIs+%F0%9F%9A%80" alt="Typing" />
 
 </div>
 
@@ -119,39 +95,19 @@ export default function Profile() {
 
 ## 📊 GitHub Stats
 
-# gh-light-mode-only
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mehdi-tahmasebi&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=007ACC&icon_color=007ACC" alt="Stats Light" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=mehdi-tahmasebi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=61DAFB&icon_color=61DAFB" alt="GitHub Stats" height="165" />
 &nbsp;
-<img src="https://streak-stats.demolab.com/?user=mehdi-tahmasebi&theme=default&hide_border=true&ring=007ACC&fire=007ACC&currStreakLabel=007ACC" alt="Streak Light" height="165" />
+<img src="https://streak-stats.demolab.com/?user=mehdi-tahmasebi&theme=tokyonight&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" height="165" />
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-tahmasebi&layout=compact&theme=default&hide_border=true&title_color=007ACC" alt="Languages Light" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-tahmasebi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61DAFB" alt="Top Languages" height="165" />
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehdi-tahmasebi&theme=minimal&hide_border=true&color=007ACC&line=007ACC&point=007ACC" alt="Graph Light" />
-
-</div>
-
-# gh-dark-mode-only
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mehdi-tahmasebi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=61DAFB&icon_color=61DAFB" alt="Stats Dark" height="165" />
-&nbsp;
-<img src="https://streak-stats.demolab.com/?user=mehdi-tahmasebi&theme=tokyonight&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="Streak Dark" height="165" />
-
-<br /><br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-tahmasebi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61DAFB" alt="Languages Dark" height="165" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehdi-tahmasebi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=61DAFB&line=61DAFB&point=FFFFFF" alt="Graph Dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehdi-tahmasebi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=61DAFB&line=61DAFB&point=FFFFFF" alt="Contribution Graph" />
 
 </div>
 
@@ -176,18 +132,8 @@ export default function Profile() {
 
 ---
 
-# gh-light-mode-only
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8F4FD,100:007ACC&height=100&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=22&fontColor=0D1117&animation=fadeIn" alt="Footer Light" />
-
-</div>
-
-# gh-dark-mode-only
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:007ACC&height=100&section=footer&text=%3E+exit%20%E2%94%80%20thanks%20for%20visiting%20%E2%9C%A8&fontSize=22&fontColor=ffffff&animation=twinkling" alt="Footer Dark" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:007ACC&height=100&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=22&fontColor=ffffff&animation=twinkling" alt="Footer" />
 
 </div>
